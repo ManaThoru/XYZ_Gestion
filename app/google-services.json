@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "73349689358",
+    "firebase_url": "https://xyz-gestion-default-rtdb.firebaseio.com",
+    "project_id": "xyz-gestion",
+    "storage_bucket": "xyz-gestion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73349689358:android:6ce780aa248935d3c94c5f",
+        "android_client_info": {
+          "package_name": "com.example.xyz_gestion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCerNUjSdOp45SlgB9vFvlxfox-nsXu8uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

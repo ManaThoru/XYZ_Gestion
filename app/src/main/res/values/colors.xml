@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="xyz">#7866ae</color>
+    <color name="verdean">#48752c</color>
+    <color name="greyban">#ebeceb</color>
+    <color name="banner1">#cbcb64</color>
+    <color name="clubantar">#3e878d</color>
+    <color name="banner">#282359</color>
+    <color name="rojo">#c70000</color>
+    <color name="verde">#00ff00</color>
+</resources>
